@@ -1,6 +1,8 @@
 # FPGA双人空战——Space Oddity
 
-灵感、VGA框架、素材来自于https://timetoexplore.net/blog/arty-fpga-vga-verilog-01
+灵感来自于https://howardlau.me/projects/flappga-mario-a-video-game-in-fpga.html
+
+VGA框架、素材来自于https://timetoexplore.net/blog/arty-fpga-vga-verilog-01
 
 由于这个项目上传的时候已经过去一年了，我也不知道它跑不跑得起来，而且原本有很多垃圾的图片和mem文件冗余，我也不知道哪些是有用的，哪些是没用的，那不如都上传一下。
 
